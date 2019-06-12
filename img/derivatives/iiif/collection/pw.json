@@ -28,6 +28,16 @@ layout: none
       "label": "pw04"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pw03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pw03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pw02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "pw02"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/pw05/manifest.json",
       "@type": "sc:Manifest",
       "label": "pw05"
