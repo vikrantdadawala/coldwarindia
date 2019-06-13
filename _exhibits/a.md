@@ -6,9 +6,11 @@ publish_date: 2019-06-15
 permalink: /exhibits/a/
 ---
 
+{% include parallax_image.html collection='pw' pid='pw01' %}
+
+
 From its party headquarters in Sandhurst Road, Bombay, the CPI published the *People’s War* as part of its multi-pronged strategy to exploit the unprecedented national publicity made possible by its support for the war effort. The years between 1942 and 1945 saw the numbers of CPI members rise dramatically -- from 4,500 in 1942 to over 30,000 full-time members by 1945. By the beginning of 1943, the People’s War claimed a total circulation of over 33,000 in all its editions (English, Hindi, Urdu, and Marathi). There is no reliable way of estimating the actual readership of the newspaper given the widespread practice of multiple newspaper readers sharing a single copy. As such, in the space of just three or four years, the CPI transformed from a criminal political organization to one that could count the editors of the most important newspapers in English, Urdu, and Hindi among the subscribers of its party newspaper.
 
-{% include parallax_image.html collection='pw' pid='pw05' %}
 
 The filmmaker Khwaja Ahmad Abbas’s account of interviewing P.C Joshi (General-Secretary of the CPI), on an assignment for the Bombay Chronicle, reveals just how incredible this achievement of publicity by a party that had spent more than a decade underground was:
 
@@ -29,7 +31,10 @@ When a massive famine struck Bengal, Bihar and other parts of British India in 1
 Professor Mukherjee’s phrase, “my all India feeling”, is idiosyncratic but also revealing, suggesting that the national circulation of affectively powerful representations of mass suffering was a key component of the maturing of the communist public as a nation-wide and multilingual counterpublic, one that continued to punch above its weight for many decades in postcolonial India.
 The challenge of adequately representing the famine -- narratively and visually -- transformed the newspaper and created an unprecedented space for visual images. As reports about the food crisis in Bengal and Orissa began to make their way into the pages of the People’s War with increasing frequency through 1943, these came to be accompanied by a series of sketches and photographs. The most famous of these were by the Bengali duo of Chittaprosad and Sunil Janah, respectively, who accompanied the general-secretary P.C Joshi on his tour of Bengal, and ended up joining the permanent staff of the newspaper.
 
-{% include parallax_image.html collection='pw' pid='pw04' %}
+{% include inline_image.html collection='pw' pid='pw05' %}
+
+{% include inline_image.html collection='pw' pid='pw04' %}
+
 
 The first set of sketches by Chittaprosad depict bodies devastated by famine, who have lost everything -- including their name and their sanity. Sketches of corpses in a morgue emphasize the secular nature of the disaster, with “Muslim” and “Hindu” bodies (religious identites coded through facial hair) lying side-by-side in death. The sketch of a dying activist who had participated in the failed Chittagong rebellion of 1930 (Santi Chakravarty, not included in this paper) is unusual in its details, most victims are little more than the barest of outlines.
 

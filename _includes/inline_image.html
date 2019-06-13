@@ -4,9 +4,9 @@
   <a href='{{ item.url | absolute_url }}'>
     <img src='{{ item.full | absolute_url }}'/>
   </a>
-  {% if item.label %}
+  {% if item.description %}
   <p class='image-caption'>
-    Above: <a href='{{ item.url | absolute_url }}'>{{ item.label }}</a>
+    Above: <a href='{{ item.url | absolute_url }}'>{{ item.description }}</a>, {{item._date}}
   </p>
   {% endif %}
 </div>
