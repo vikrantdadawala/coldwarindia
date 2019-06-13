@@ -91,7 +91,7 @@ search:
           - description
           - author
           - _date
-        
+
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
 # --------------------------------------------------------------
@@ -100,27 +100,10 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    sub:
-      - label: 'About this Project'
-        link: '/about/'
-      - label: 'About Wax'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Essays'
-    sub:
-      - label: 'India and the Cold War: An Overview'
-        link: '/exhibits/a/'
-      - label: 'What was Soviet India?'
-        link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
+  - label: 'About the Project'
+    link: '/about'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
-
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
 # --------------------------------------------------------------
