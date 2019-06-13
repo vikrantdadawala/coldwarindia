@@ -4,8 +4,8 @@ show_title: false
 banner:
   collection: pw
   pid: pw07
-  y: 15%
-  height: '600px'
+  y: 25%
+  height: '175px'
 ---
 
 __India and the Cold War__ is a curated digital repository that revisits the global Cold War from a postcolonial point of view. This month, we are featuring archival material from the *People’s War*, the central organ of the Communist Party of India (CPI) from August 1942 through November 1945.

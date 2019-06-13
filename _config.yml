@@ -102,6 +102,10 @@ search:
 menu:
   - label: 'About the Project'
     link: '/about'
+  - label: 'Background'
+    link: '/exhibits/a'
+  - label: 'A Dreamworld Called Soviet India'
+    link: '/exhibits/b'
   - label: 'Search'
     link: '/search/'
 # --------------------------------------------------------------
